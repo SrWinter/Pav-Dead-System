@@ -6,5 +6,9 @@
     "JR_JMR": {
         "banneduntil": "2/3/2099",
         "BanReason": "dont snitch"
+    },
+    "TestingAccounter0841": {
+        "banneduntil": "2099/2/3",
+        "BanReason": "Test Ban"
     }
 }
