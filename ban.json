@@ -10,5 +10,9 @@
     "TestingAccounter0841": {
         "banneduntil": "2099/2/3",
         "BanReason": "Test Ban"
+    },
+    "AFJshoota": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "16 year old white hood dude"
     }
 }
